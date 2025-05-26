@@ -24,22 +24,6 @@ It demonstrates how to build and run a simple web application with Spring Boot.
 
 ---
 
-## 📷 Screenshots
-
-### 🔧 Project Structure and Code in IntelliJ IDEA  
-*(Insert screenshot here)*
-
-### ▶️ Application Running  
-*(Insert screenshot here)*
-
-### ❌ 404 Whitelabel Error Page  
-*(Insert screenshot here)*
-
-### ✅ Working `/abc` Endpoint  
-*(Insert screenshot here)*
-
----
-
 ## 🛠️ How to Run
 
 1. Clone the repository:
